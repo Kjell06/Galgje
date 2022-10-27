@@ -17,7 +17,8 @@ req4: m \
 res4: ja 1 keer\
 req5: j\
 res5: ja 1 keer\
-res6: je hebt het goed geraden!\
+res6: je hebt het goed geraden!
+
 ## Score
 ![Galgje](jamal.png)
 
